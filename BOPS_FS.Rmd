@@ -1,6 +1,6 @@
 ---
 title: "BOPS"
-author: "Bryan Tamsir"
+author: "Bryan Tamsir" "Olivia Natasha" "Hariz Hisham" "Kevin Change"
 output: word_document
 editor_options: 
   chunk_output_type: console
